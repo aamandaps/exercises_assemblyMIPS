@@ -42,7 +42,7 @@ enquanto:
 	j incrementa
 	
 novoMenor:
-	add $s2 , $s0 , 0 #Maior = s1
+	add $s2 , $s0 , 0 #Menor = s2
 	
 	j incrementa
 	
